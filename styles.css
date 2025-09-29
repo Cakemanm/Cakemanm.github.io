@@ -1,9 +1,6 @@
 body {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-p {
-    color: rgb(255, 255, 255);
-}
 h1 {
     text-align: center;
     color: rgb(215, 100, 100);
@@ -11,4 +8,7 @@ h1 {
 h2 {
     color: rgb(215, 100, 100);
     text-align: center;
+}
+p {
+    color: rgb(255, 255, 255);
 }
