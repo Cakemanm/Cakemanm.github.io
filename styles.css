@@ -14,11 +14,24 @@ p {
 }
 .about {
     background-color: darkslategray;
+    display:flex; 
+    flex-wrap:wrap;
+}
+
+.self {
+    width: 40%;
+    margin: 20px;
+    padding: 20px 30px;
 }
 
 .projects {
     display:flex; 
     flex-wrap:wrap;
+    background-color: darkslategray;
+}
+
+.skills {
+    background-color: darkslategray;
 }
 
 .project {
