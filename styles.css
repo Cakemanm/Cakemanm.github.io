@@ -37,3 +37,7 @@ p {
     display: block;
     margin: auto;
 }
+
+.section-title {
+font-size: larger;
+}
